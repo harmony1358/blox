@@ -1,8 +1,8 @@
 name: blox
-description: A new Flutter package project.
+description: Simple Reactive State Management for Flutter
 version: 0.0.1
-author:
-homepage:
+author: Bartosz Wójcik
+homepage: https://github.com/harmony1358/blox
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
